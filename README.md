@@ -1,0 +1,1 @@
+This repository serves the purpose of housing my experimental infrastructure definitions. It leverages Terraform, an Infrastructure as Code tool, to facilitate the provisioning and management of the entire infrastructure in a seamless and consistent workflow.
